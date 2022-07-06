@@ -1,0 +1,201 @@
+File name: ExpressionTree.txt
+
+Overal status: No threat detected
+
+Engine: aegislab
+scan_result_i: 0
+scan_time: 0
+hreat_found: 
+def_time: 2022-06-26T01:05:36.000Z
+
+Engine: ahnLab
+scan_result_i: 0
+scan_time: 3
+hreat_found: 
+def_time: 2022-06-28T00:00:00.000Z
+
+Engine: antiy
+scan_result_i: 0
+scan_time: 1
+hreat_found: 
+def_time: 2022-06-27T15:30:00.000Z
+
+Engine: avira
+scan_result_i: 0
+scan_time: 2
+hreat_found: 
+def_time: 2022-06-27T09:55:00.000Z
+
+Engine: bitdefender
+scan_result_i: 0
+scan_time: 2
+hreat_found: 
+def_time: 2022-06-27T08:52:06.000Z
+
+Engine: clamAV
+scan_result_i: 0
+scan_time: 6
+hreat_found: 
+def_time: 2022-06-27T09:19:51.000Z
+
+Engine: crowdStrikeFalconML
+scan_result_i: 23
+scan_time: 0
+hreat_found: 
+def_time: 2022-06-27T00:00:00.000Z
+
+Engine: cyren
+scan_result_i: 0
+scan_time: 13
+hreat_found: 
+def_time: 2022-06-27T09:49:00.000Z
+
+Engine: eSET
+scan_result_i: 0
+scan_time: 1
+hreat_found: 
+def_time: 2022-06-27T08:40:58.000Z
+
+Engine: emsisoft
+scan_result_i: 0
+scan_time: 15
+hreat_found: 
+def_time: 2022-06-27T03:35:00.000Z
+
+Engine: filseclab
+scan_result_i: 0
+scan_time: 190
+hreat_found: 
+def_time: 2022-06-26T22:57:36.000Z
+
+Engine: hAURI
+scan_result_i: 0
+scan_time: 2
+hreat_found: 
+def_time: 2022-06-26T22:57:36.000Z
+
+Engine: iKARUS
+scan_result_i: 0
+scan_time: 3
+hreat_found: 
+def_time: 2022-06-27T08:50:16.000Z
+
+Engine: jiangmin
+scan_result_i: 0
+scan_time: 1685
+hreat_found: 
+def_time: 2022-06-26T05:34:24.000Z
+
+Engine: k7
+scan_result_i: 0
+scan_time: 1
+hreat_found: 
+def_time: 2022-06-27T01:20:00.000Z
+
+Engine: kaspersky
+scan_result_i: 0
+scan_time: 5
+hreat_found: 
+def_time: 2022-06-27T09:39:00.000Z
+
+Engine: mcAfee
+scan_result_i: 0
+scan_time: 8
+hreat_found: 
+def_time: 2022-06-26T00:00:00.000Z
+
+Engine: nANOAV
+scan_result_i: 0
+scan_time: 4
+hreat_found: 
+def_time: 2022-06-27T04:26:00.000Z
+
+Engine: quickHeal
+scan_result_i: 0
+scan_time: 1
+hreat_found: 
+def_time: 2022-06-26T22:18:00.000Z
+
+Engine: rocketCyber
+scan_result_i: 23
+scan_time: 3
+hreat_found: 
+def_time: 2022-06-27T00:00:00.000Z
+
+Engine: scrutiny
+scan_result_i: 23
+scan_time: 49
+hreat_found: 
+def_time: 2022-06-27T15:30:00.000Z
+
+Engine: sophos
+scan_result_i: 0
+scan_time: 13
+hreat_found: 
+def_time: 2022-06-27T00:46:24.000Z
+
+Engine: sUPERAntiSpyware
+scan_result_i: 0
+scan_time: 937
+hreat_found: 
+def_time: 2022-06-24T18:42:28.392Z
+
+Engine: tACHYON
+scan_result_i: 0
+scan_time: 15
+hreat_found: 
+def_time: 2022-06-27T00:00:00.000Z
+
+Engine: trendMicro
+scan_result_i: 0
+scan_time: 1468
+hreat_found: 
+def_time: 2022-06-27T03:35:00.000Z
+
+Engine: trendMicroHouseCall
+scan_result_i: 0
+scan_time: 1541
+hreat_found: 
+def_time: 2022-06-26T22:57:36.000Z
+
+Engine: onAV
+scan_result_i: 23
+scan_time: 1
+hreat_found: 
+def_time: 2022-06-27T04:26:00.000Z
+
+Engine: virusBlokAda
+scan_result_i: 0
+scan_time: 3
+hreat_found: 
+def_time: 2022-06-27T08:50:16.000Z
+
+Engine: webrootSMD
+scan_result_i: 23
+scan_time: 0
+hreat_found: 
+def_time: 2022-06-26T21:00:16.000Z
+
+Engine: xvirusAntiMalware
+scan_result_i: 0
+scan_time: 47
+hreat_found: 
+def_time: 2022-06-26T19:35:03.000Z
+
+Engine: zillya
+scan_result_i: 0
+scan_time: 3
+hreat_found: 
+def_time: 2022-06-24T21:09:00.000Z
+
+Engine: virITEXplorer
+scan_result_i: 0
+scan_time: 5
+hreat_found: 
+def_time: 2022-07-01T12:45:00.000Z
+
+Engine: virITML
+scan_result_i: 0
+scan_time: 2
+hreat_found: 
+def_time: 2022-07-01T12:45:00.000Z
